@@ -16,4 +16,4 @@ of why the result came out that way, and the alternatives I rejected.
 
 **Stack:** Python · Azure OpenAI · Azure AI Search · llama.cpp / Ollama · Docker · Jenkins
 
-[LinkedIn](https://www.linkedin.com/in/enesuzunn/) · enesuzun.eu@outlook.com
+[LinkedIn](https://www.linkedin.com/in/enesuzunn/) · 
